@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="hatirlatma_title_hint">Başlık giriniz.</string>
+    <string name="hatirlatma_title_label">Başlık</string>
+    <string name="hatirlatma_details_label">Detay</string>
+    <string name="tamamlandi_label">Tamamlandı</string>
+    <string name="hatirlatma_details_hint">Detaylari giriniz.</string>
+    <string name="hatirlatma_id">ID</string>
+    <string name="yeni_hatirlatma">Hatırlatma Ekle</string>
+    <string name="show_subtitle">Göster</string>
+    <string name="hide_subtitle">Gizle</string>
+    <string name="subtitle_format">%1$d Hatirlatma</string>
+</resources>
